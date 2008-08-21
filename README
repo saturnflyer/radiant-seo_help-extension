@@ -1,0 +1,11 @@
+= SEO Help
+
+SEO Help provides some extra tags for the display of page meta content.
+
+  <r:if_meta name="description" inherit="false">...</r:if_meta>
+  <r:unless_meta name="description" inherit="false">...</r:unless_meta>
+
+Details are provided in the tag descriptions.
+
+Built by Saturn Flyer http://www.saturnflyer.com
+Supported by Braintree Payment Solutions http://www.braintreepaymentsolutions.com
