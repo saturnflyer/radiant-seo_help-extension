@@ -7,5 +7,12 @@ SEO Help provides some extra tags for the display of page meta content.
 
 Details are provided in the tag descriptions.
 
+You should consider using page parts for your page meta data. The tags involved in
+using pages parts are significantly more helpful and flexible than the tags to
+support the meta information.
+
+With <r:if_content>, <r:unless_content> and <r:content> you can do significantly
+more than what this extension provides.
+
 Built by Saturn Flyer http://www.saturnflyer.com
 Supported by Braintree Payment Solutions http://www.braintreepaymentsolutions.com
